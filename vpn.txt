@@ -2,7 +2,7 @@
   "country": "us",
   "name":"test",
   "serverAddress": "173.23.11.231",
-  "serverPort": "443",
+  "serverPort": 443,
   "password": "123456",
-  "plugin": "aes"
+  "method": "aes-256-gcm"
 }
