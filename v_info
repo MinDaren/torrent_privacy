@@ -1,0 +1,8 @@
+{
+  "country": "us",
+  "name":"test",
+  "ip": "173.23.11.231",
+  "pwd": "123456",
+  "port": "443",
+  "securtyType": "aes"
+}
