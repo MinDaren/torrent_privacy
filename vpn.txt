@@ -1,9 +1,1 @@
-[
-  {
-    "name": "test-us",
-    "serverAddress": "173.23.11.231",
-    "serverPort": 443,
-    "password": "123456",
-    "method": "aes-256-gcm"
-  }
-]
+qS9g64KqQb/rcu0gpixB+vvYYFvVQJMOXwDDyT8BD8qTaSAGFRdoDqLj7OycUJYGJwb514kIPcO2Gj0H2/XZ81UpBt00HYQ58/BA480mMAq1TmSd53kBvRm14KTpW45+sWwIJEGlru6+KIsLm4sglMHmK2ZnWsqp5bvznlrB42J9XYBEalXeYnSjJu/iba5WDAfjPL3rqJvSaIFI0Wq8E52yLnRpjTUWcegm4GvFsHsjihOQLDSAPy0+F6HuEOE5XHxTApn/zl4i4od5TMehgU702+SQ4CSGqOyxU2DEXwExOF3ByjcdjtlYsd8d0H1XrW3yUHb2gN0QNZrqJebz9g==
